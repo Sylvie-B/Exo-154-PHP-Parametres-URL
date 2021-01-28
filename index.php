@@ -29,6 +29,10 @@
     <div>
         <a href="exo1.php?iteration=10">mon lien</a>
     </div>
+    <div>
+        <a href="exo2.php?iteration=10">mon lien 2</a>
+    </div>
+
 </body>
 </html>
 
